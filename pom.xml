@@ -14,6 +14,11 @@
             <artifactId>gson</artifactId>
             <version>2.7</version>
         </dependency>
+     <dependency>
+       <groupId>com.travix.supplyhub.crosssell</groupId>
+       <artifactId>cross-sell-masking-api</artifactId>
+       <version>5.1.339</version>
+     </dependency>
     </dependencies>
 
 </project>
